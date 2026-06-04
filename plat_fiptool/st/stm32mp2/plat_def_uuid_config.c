@@ -24,7 +24,7 @@ toc_entry_t plat_def_toc_entries[] = {
 
 	{
 		.name = NULL,
-		.uuid = { {0}, {0}, {0}, 0, 0, {0} },
+		.uuid = { {0} },
 		.cmdline_name = NULL,
 	}
 };

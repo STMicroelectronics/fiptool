@@ -188,7 +188,7 @@ toc_entry_t toc_entries[] = {
 	},
 	{
 		.name = NULL,
-		.uuid = { {0}, {0}, {0}, 0, 0, {0} },
+		.uuid = { {0} },
 		.cmdline_name = NULL,
 	}
 };
